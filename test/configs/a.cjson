@@ -1,0 +1,27 @@
+{
+  "#include": "common.cjson",
+  "villa": {
+    "backyard": {
+      "garden": {
+        "plants": {
+          "flowers": ["roses"],
+          "creepers": "calico"
+        }
+      }
+    }
+  },
+  "parking": [
+    {
+      "category": "A",
+      "fee": 25.45,
+      "rate": "per hour",
+      "free": "never"
+    },
+    {
+      "category": "B",
+      "fee": 10,
+      "rate#public": "per hour",
+      "free": "weekend"
+    }
+  ]
+}

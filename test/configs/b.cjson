@@ -1,0 +1,15 @@
+{
+  "#include": "a.cjson",
+  "table": {
+    "dimensions": {
+      "width": "120 cm"
+    }
+  },
+  "chair": {
+    "quantity": 4
+  },
+  "couch": {
+    "type": "classic",
+    "size": "3 seater"
+  }
+}

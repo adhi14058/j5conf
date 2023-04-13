@@ -1,0 +1,28 @@
+{
+  "table": {
+    "type": "coffee",
+    "dimensions": {
+      "height#public": "60 cm",
+      "width": "60 cm",
+      "depth": "40 cm"
+    }
+  },
+  "chair": {
+    "type": "straight-back"
+  },
+  "villa": {
+    "backyard": {
+      "swimming-pool": {
+        "dimensions": {
+          "length": "100 ft"
+        }
+      }
+    }
+  },
+  "garage#public": {
+    "area": {
+      "length": "30 ft",
+      "width": "20 ft"
+    }
+  }
+}
